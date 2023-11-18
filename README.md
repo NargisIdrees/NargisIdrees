@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NargisIdrees
-- 👀 I’m interested in Website Development.
-- 🌱 I’m currently learning Front End Development.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Python for Data Science.
   
 
